@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-indicators {
+    display: flex;
+    align-items: center;
+}
+
+#redes {
+    height: auto;
+    width: 40%;
+    max-height: 50px;
+    max-width: 50px;
+    position: fixed;
+    bottom: 10px;
+    right: 0;
+
+}
+
