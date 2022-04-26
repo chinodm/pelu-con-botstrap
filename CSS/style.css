@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+disclaimer {
+    display: none;
+}
+
 body {
     background-image: url(../img/pelu2.jpg);
     background-repeat: no-repeat;
