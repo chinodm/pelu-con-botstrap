@@ -1,0 +1,15 @@
+body {
+        background-image: url(../img/pelu2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+
+        section {
+            .carousel-indicators {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+
+}
